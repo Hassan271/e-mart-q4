@@ -30,6 +30,14 @@ export default function BottomofHeader() {
 <Link href={"/sell"}>Sell</Link>
 </p>  
 
+<p className="hidden md:inline-flex items-center h-8 px-2 border border-transparent hover:border-white cursor-pointer duration-300">
+<Link href={"/wishlist"}>WishList</Link>
+</p>  
+
+<p className="hidden md:inline-flex items-center h-8 px-2 border border-transparent hover:border-white cursor-pointer duration-300">
+<Link href={"/chatbot"}>ChatBot</Link>
+</p>  
+
 <p className="hidden md:inline-flex items-center h-8 px-2 border border-transparent hover:border-red-600 
 hover:text-red-400 text-amazon_yellow cursor-pointer duration-300">
   
