@@ -22,15 +22,6 @@ function Banner() {
     <div className="w-full relative m-0 overflow-hidden  transition-height duration-150 ease-in box-border" >
 
  
- {/* <Carousel
-     autoPlay
-     infiniteLoop
-     showStatus={false}
-     showIndicators={false}
-     showThumbs={false}
-     interval={3000}
-     className='  '
-   > */}
 
 <ul className=" transform transition-all duration-[350ms] ease-in-out flex m-0 p-0 relative list-none w-full ">
 

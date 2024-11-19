@@ -1,10 +1,8 @@
 import React from 'react'
 import Image from "next/image";
 import logo from "../../assets/icons/home-page-46-512.png";
-import pin from "../../assets/icons/location-pin-alt-1-64.png";
-import search1 from "../../assets/icons/icon_search_nor-512.png";
+
 import CartIcon from "../../assets/icons/cartIcon.png";
-import down1 from "../../assets//icons/down-255-512.png";
 
 import Link from 'next/link';
 import BottomofHeader from '../bottomHeader/page';

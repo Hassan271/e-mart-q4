@@ -1,5 +1,4 @@
 import React from 'react'
-import styles from '../../../../.next/static/css/app/layout.css'
 
 const FooterBottom = () => {
   return (
